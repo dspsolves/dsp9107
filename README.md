@@ -25,3 +25,5 @@
 - [x] plans
 - [ ] execution ![in progress](https://github.com/dsp9107/dsp9107/blob/master/Infinity-1s-40px.gif)
 - [ ] vacation
+
+![](https://komarev.com/ghpvc/?username=dsp9107&color=blue)
