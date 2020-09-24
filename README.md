@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oh, you've arrived 
 
-<!--
-**dsp9107/dsp9107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Startups revolving around Voice as a Service and Edtech.
+- 🌱 I’m currently learning CI/CD
+- 👯 I’m looking to collaborate on public APIs
+- 🤔 I’m looking for help with DevOps
+- 💬 Ask me about anything
+- 📫 How to reach me: dsp9107@outlook.com
+- 😄 Pronouns: that guy who knows something about *almost* everything
+- ⚡ Fun fact: How do you predict the future?
 
-Here are some ideas to get you started:
+### You don't
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Rather **you**
+
+![banner](https://github.com/dsp9107/dsp9107/blob/master/make%20it%20happen.png)
