@@ -1,6 +1,6 @@
 ![banner](https://github.com/dsp9107/dsp9107/blob/master/make%20it%20happen.png)
 
-### Still scrolling? Cool :grin:
+### Namaste :smile:
 
 - 🔭 I’m currently working with Startups revolving around Voice as a Service and Edtech.
 - 🌱 I’m currently learning CI/CD
@@ -14,7 +14,8 @@
 ### How far have I come?
 
 - [x] plans
-- [x] ~execution~ expectations
+- [ ] execution
+- [x] expectations
 - [x] disappointments
 - [x] whining
 - [x] disappointments
