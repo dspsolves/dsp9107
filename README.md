@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on public APIs
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about how to predict the future :wink:
-- 📫 How to reach me: [email](mailto:dsp9107@outlook.com) or check out [my website](http://dhawalsinghpanwar.codes)
+- 📫 How to reach me: [email](mailto:dsp9107@outlook.com) or check out [my website](https://dspsolves.in)
 - 😄 Pronouns: he, him, that guy who knows something about *almost* everything
 - ⚡ Fun fact: How do you predict the future?
 
