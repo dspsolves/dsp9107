@@ -2,10 +2,10 @@
 
 ### Namaste :smile:
 
-- 🔭 I’m currently working with Startups revolving around Voice as a Service and Edtech.
-- 🌱 I’m currently learning CI/CD
+- 🔭 I’m currently working with a B2B SaaS Player ([StoryXpress](https://storyxpress.co/))
+- 🌱 I’m currently learning **How to communicate effectively**
 - 👯 I’m looking to collaborate on public APIs
-- 🤔 I’m looking for help with DevOps
+- 🤔 I’m looking for help with **Optimizing Node.js Performance**
 - 💬 Ask me about how to predict the future :wink:
 - 📫 How to reach me: [email](mailto:dsp9107@outlook.com) or check out [my website](https://dspsolves.in)
 - 😄 Pronouns: he, him, that guy who knows something about *almost* everything
